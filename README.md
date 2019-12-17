@@ -1,1 +1,1 @@
-[![Build status](https://developers-br.visualstudio.com/IntelligentCheckout/_apis/build/status/IntelligentCheckout-Backend-CI)](https://developers-br.visualstudio.com/IntelligentCheckout/_build/latest?definitionId=2)
+[![Build status](https://github.com/Developers-BR/intelligent-checkout-backend/workflows/Build%20.NET%20Core/badge.svg)](https://github.com/Developers-BR/intelligent-checkout-backend/workflows/Build%20.NET%20Core/badge.svg)
