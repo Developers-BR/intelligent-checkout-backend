@@ -1,3 +1,6 @@
+[![Build status](https://developers-br.visualstudio.com/IntelligentCheckout/_apis/build/status/IntelligentCheckout-Backend-CI)](https://developers-br.visualstudio.com/IntelligentCheckout/_build/latest?definitionId=2)
+
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
